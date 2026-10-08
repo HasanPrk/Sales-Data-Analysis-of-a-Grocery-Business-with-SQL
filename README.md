@@ -135,9 +135,7 @@ ORDER BY
 ## 📁 Repository Structure
 
 ```
-├── database/          # Table creation & sample data scripts
-├── queries/           # Queries for questions 1-10
-├── screenshots/       # Query output screenshots
+├── queries/           # Queries for questions & Query output screenshots
 └── README.md
 ```
 
