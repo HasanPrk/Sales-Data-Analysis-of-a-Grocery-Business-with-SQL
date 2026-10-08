@@ -32,8 +32,8 @@ The business in question is an active **spices & food products retailer**. The d
 
 **Relation Between Database's Tables**
 
-> *<img width="818" height="766" alt="image" src="https://github.com/user-attachments/assets/0649d759-7e74-42b1-8a8b-ef40ce1aa6e2" />
-*
+> <img width="818" height="766" alt="image" src="https://github.com/user-attachments/assets/0649d759-7e74-42b1-8a8b-ef40ce1aa6e2" />
+
 
 ---
 
@@ -135,7 +135,7 @@ ORDER BY
 ## 📁 Repository Structure
 
 ```
-├── queries-And-Outputs.md/           # Queries for questions & Query output screenshots
+├── Queries-And-Outputs.md/           # Queries for questions & Query output screenshots
 └── README.md
 ```
 
