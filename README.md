@@ -135,7 +135,7 @@ ORDER BY
 ## 📁 Repository Structure
 
 ```
-├── queries/           # Queries for questions & Query output screenshots
+├── queries-And-Outputs.md/           # Queries for questions & Query output screenshots
 └── README.md
 ```
 
