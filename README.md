@@ -135,7 +135,8 @@ ORDER BY
 ## 📁 Repository Structure
 
 ```
-├── Queries-And-Outputs.md/           # Queries for questions & Query output screenshots
+├── Sales Analysis for a Grocery Business.pdf    # Report of SQL Project
+├── Queries-And-Outputs.md/                      # Queries for questions & Query output screenshots
 └── README.md
 ```
 
