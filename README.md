@@ -4,7 +4,7 @@ SQL analysis of a grocery business's sales data from a real Sepidar ERP database
 
 this project is a sales analysis for a grocery business, done with **SQL Server**.
 
-What makes this project special is that the data comes from a **real database of Sepidar** (one of the most widely used accounting/sales ERP systems in Iran). That means I was dealing with the real, messy structure of an ERP: dozens of tables, complex relationships, and column names you'd never guess! My first step was studying the ERD and mapping out table relationships before writing a single query.
+What makes this project special is that the data comes from a **real database of Sepidar** (one of the most widely used accounting/sales ERP systems in Iran). That means I was dealing with the real, messy structure of an ERP: dozens of tables, complex relationships. My first step was studying the ERD and mapping out table relationships before writing a single query.
 
 ---
 
