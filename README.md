@@ -146,5 +146,5 @@ ORDER BY
 
 - **Data Analyst:** Mohammadhasan Pourkabgani
 - **Email:** Mh.pourkabgani91@gmail.com
-- **LinkedIn:** [add your link here]
+- **LinkedIn:** www.linkedin.com/in/mohammadhasan-pourkabgani
 - **GitHub:** https://github.com/Hasanprk
