@@ -135,14 +135,10 @@ ORDER BY
 ## 🗂️ Repository Structure
 ```                   
  ┣ assets/                           # screenshots used in this README
- ┃ ┣ Dashboard-preview.jpg
- ┃ ┣ Total-Sales-Trend.jpg
- ┃ ┣ Relation-between-tables.jpg
- ┃ ┣ Top-8-Sales-By-Product.jpg
- ┃ ┣ Top-Sales-By-Product-Categories.jpg
- ┃ ┗ Average-Discount-By-Category.jpg
+ ┃ ┣ Data-Model.jpg
  ┣ report/
  ┃ ┗ Sales Analysis for a Grocery Business.pdf
+ ┣ Queries-And-Outputs.md 
  ┗ README.md
 ```
 
